@@ -4,7 +4,7 @@
 
 This is an attempt to reimplement redux syncing 2 components in the tree.
 
-## Deployed Vercel
+![Deployed on Vercel](https://manual-redux.vercel.app)
 
 ## Notes
 
