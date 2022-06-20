@@ -1,5 +1,8 @@
-import { styles } from "../../styles/global";
 import { GlobalStateType, useDispatch, useSubscribe } from "../store";
+
+const styles = {
+  button: "bg-blue-500 hover:bg-blue-700 text-white py-1 px-2 rounded text-xs",
+};
 
 export const MainCounter = () => {
   const dispatch = useDispatch();
